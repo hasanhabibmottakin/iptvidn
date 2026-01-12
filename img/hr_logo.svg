@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 140">
+  <defs>
+    <style>
+      .txt {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 72px;
+        letter-spacing: -1px;
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+
+  <text x="20" y="95" class="txt">Iptvidn</text>
+</svg>
